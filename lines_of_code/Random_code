@@ -1,0 +1,7 @@
+
+print('hellofdsafhdsakl;')
+
+for big in ('gya'):
+    print(big)
+
+name = input('your stupid name please?')
